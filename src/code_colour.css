@@ -1,0 +1,30 @@
+.container {
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px auto;
+  padding: 30px 0px 0px 0px;
+}
+
+.box {
+  width: 2vw;
+  height: 2vw;
+  cursor: grabbing;
+}
+
+.red {
+  background-color: red;
+  color: red;
+}
+.yellow {
+  background-color: yellow;
+  color: yellow;
+}
+.black {
+  background-color: black;
+  color: black;
+}
+.blue {
+  background-color: blue;
+  color: blue;
+}

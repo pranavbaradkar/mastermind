@@ -1,0 +1,32 @@
+.container {
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  margin: 30px auto;
+  width: 70%;
+}
+
+.code_box {
+  width: 5vw;
+  height: 5px;
+  border: 2px solid black;
+  cursor: pointer;
+}
+
+.red {
+  background-color: red;
+  color: red;
+}
+.yellow {
+  background-color: yellow;
+  color: yellow;
+}
+.black {
+  background-color: black;
+  color: black;
+}
+.blue {
+  background-color: blue;
+  color: blue;
+}

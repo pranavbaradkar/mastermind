@@ -1,0 +1,33 @@
+.container {
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  margin: 20px auto;
+  flex-wrap: wrap;
+  width: 20%;
+}
+
+.box {
+  width: 10%;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+
+.red {
+  background-color: red;
+  color: red;
+}
+.white {
+  background-color: white;
+  color: white;
+}
+.black {
+  background-color: black;
+  color: black;
+}
+.blue {
+  background-color: blue;
+  color: blue;
+}
